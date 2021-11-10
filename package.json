@@ -1,6 +1,6 @@
 {
-  "name": "trading-view-recommends-parser-nodejs",
-  "version": "1.0.1",
+  "name": "@Harirak/trading-view-recommends-parser-nodejs",
+  "version": "1.0.2",
   "description": "Trading view trading recommends parse - NodeJS",
   "engines": {
     "node": ">= 14.16 <15"
@@ -34,7 +34,8 @@
     "test": "jest --coverage",
     "test:watch": "jest --watch"
   },
-  "author": "Evgeniy Ryumin <cmp08@ya.ru>",
+  "author": "Harirak",
+  "repository": "git://github.com/Harirak/trading-view-recommends-parser-nodejs.git",
   "license": "MIT",
   "dependencies": {
     "axios": "^0.21.1"
