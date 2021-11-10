@@ -9,11 +9,23 @@ This package is fully compatible with original python lib: [deathlyface/python-t
 
 ## Install
 
+add auth token in `.npmrc` file.
 ```
-npm i https://github.com/Harirak/trading-view-recommends-parser-nodejs
+//npm.pkg.github.com/:_authToken=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
+@harirak:registry=https://npm.pkg.github.com
+```
+
+To install
+```
+npm install @harirak/tradingview-recommends-parser-nodejs@1.0.3
 ```
 
 ## Usage
+
+install tslib first
+``` 
+npm install tslib
+```
 
 ```typescript
 import {
