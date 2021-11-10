@@ -11,7 +11,7 @@ This package is fully compatible with original python lib: [deathlyface/python-t
 
 add auth token in `.npmrc` file.
 ```
-//npm.pkg.github.com/:_authToken=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
+//npm.pkg.github.com/:_authToken=READ_TOKEN
 @harirak:registry=https://npm.pkg.github.com
 ```
 
