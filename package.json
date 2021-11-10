@@ -1,5 +1,5 @@
 {
-  "name": "@Harirak/trading-view-recommends-parser-nodejs",
+  "name": "@Harirak/tradingview-recommends-parser-nodejs",
   "version": "1.0.2",
   "description": "Trading view trading recommends parse - NodeJS",
   "engines": {
