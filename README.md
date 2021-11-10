@@ -1,5 +1,8 @@
 # Trading view stats parser
 
+> This is fork version and only edited to add more timeframe and more indicators as in the original python version.
+
+
 Written on NodeJS with typescript
 
 This package is fully compatible with original python lib: [deathlyface/python-tradingview-ta](https://github.com/deathlyface/python-tradingview-ta).
